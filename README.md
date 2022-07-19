@@ -7,6 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-12100E.svg?logo=github&logoColor=white)](https://github.com/Sam-Tech-2543) 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sas8dp)-->
 
+<p>
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![PHP](https://img.shields.io/badge/php-%23000?style=for-the-badge&logo=php&logoColor=787CB5) 
@@ -21,7 +22,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
+</p>
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sam-Tech-2543&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Tech-2543&theme=tokyonight&hide_border=false)<br/>
