@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-12100E.svg?logo=github&logoColor=white)](https://github.com/Sam-Tech-2543) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sas8dp)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sas8dp)-->
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
