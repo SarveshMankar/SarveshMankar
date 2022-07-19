@@ -14,7 +14,7 @@
 ![PHP](https://img.shields.io/badge/php-%23000?style=for-the-badge&logo=php&logoColor=787CB5) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-%234ea94b.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-%234ea94b.svg?style=for-the-badge&logo=sqlite&logoColor=blueviolet) 
 ![MySQL](https://img.shields.io/badge/SQLite-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
