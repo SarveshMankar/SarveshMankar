@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌏 Hi, I'm @Sam-Tech-2543. A programmer who is fluent in Python.<br>🌵 I am from India.<br>♟ I am also a chess player.<br>🏫 I currently learn at Cusrow Wadia College.
+🌏 Hi, I'm @Sarvesh. A programmer who is fluent in Python.<br>🌵 I am from India.<br>♟ I am also a chess player.<br>🏫 I currently learn at Cusrow Wadia College.
 
 
 ## 🌐 Socials:
