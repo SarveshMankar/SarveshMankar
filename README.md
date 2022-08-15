@@ -25,6 +25,7 @@
   
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sam-Tech-2543&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Tech-2543)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Tech-2543&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Tech-2543&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
