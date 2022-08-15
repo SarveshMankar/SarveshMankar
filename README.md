@@ -28,4 +28,4 @@
 [![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Sam-Tech-2543&amp;repo=learning)](https://github.com/Sam-Tech-2543/github-readme-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Tech-2543&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Tech-2543&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
