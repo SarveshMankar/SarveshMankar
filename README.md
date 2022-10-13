@@ -1,7 +1,7 @@
 <!--## 💫 About Me:-->
-  ![name](https://user-images.githubusercontent.com/79782433/195537454-75cb0d98-630c-442f-87aa-196e69b59bb2.svg)
-  
+<p align="center">
   <img src="https://user-images.githubusercontent.com/79782433/195537454-75cb0d98-630c-442f-87aa-196e69b59bb2.svg">
+</p>
 
 
 <p align="center">
