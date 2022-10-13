@@ -1,7 +1,7 @@
 ## 💫 About Me:
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Sam-Tech-2543/Sam-Tech-2543/main/name.svg" alt="Sarvesh Mankar" />
+  
 </h1>
 
 <p align="center">
