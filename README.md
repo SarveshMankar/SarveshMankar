@@ -3,7 +3,6 @@
   <img src="https://user-images.githubusercontent.com/79782433/195537454-75cb0d98-630c-442f-87aa-196e69b59bb2.svg">
 </p>
 
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Python%20developer!;Experienced%20Web%20Developer!%20;4%2B%20years%20of%20Coding%20Experience!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
@@ -41,10 +40,9 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/Sam-Tech-2543"><img alt="Sarvesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Sam-Tech-2543&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Tech-2543&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/Sam-Tech-2543"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Tech-2543&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
