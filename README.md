@@ -28,7 +28,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
 
   
-  ## 🔥 Streak stats
+  ## 🔥 GitHub stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -37,6 +37,12 @@
   </a>
 </p>
   
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sarvesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Sam-Tech-2543&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Tech-2543&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
   
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sam-Tech-2543&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
