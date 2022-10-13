@@ -45,12 +45,5 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-  
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sam-Tech-2543&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Tech-2543&theme=tokyonight&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Tech-2543&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Sam-Tech-2543&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
