@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+## 💫 About Me:
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Python%20developer!;Experienced%20Web%20Developer!%20;4%2B%20years%20of%20Coding%20Experience!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
@@ -9,7 +9,7 @@
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sas8dp)-->
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Android](https://img.shields.io/badge/Android-00e600?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-33ccff?style=for-the-badge&logo=windows&logoColor=white) 
@@ -29,7 +29,7 @@
 
   
   
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sam-Tech-2543&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Tech-2543&theme=tokyonight&hide_border=false)<br/>
