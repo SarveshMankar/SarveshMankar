@@ -14,9 +14,9 @@
 
 ## 💻 Tech Stack:
 
-<div style="text-align:center;">
+<p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-</div>
+</p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Android](https://img.shields.io/badge/Android-00e600?style=for-the-badge&logo=android&logoColor=white)
