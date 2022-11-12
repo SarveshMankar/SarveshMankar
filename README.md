@@ -8,11 +8,13 @@
 </p>
 
 
-## 🌐 Socials:
+## 🌐 Developer Forums/Socials:
 
 <p align="center">
   <a href="https://github.com/Sam-Tech-2543">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/sarvesh-mankar/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.hackerrank.com/mankarsarvesh251/">
   <img src="https://img.shields.io/badge/-Hackerrank-00CC00?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
   <a href="https://www.codewars.com/users/SarveshMankar/">
