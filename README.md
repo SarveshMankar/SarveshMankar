@@ -8,7 +8,7 @@
 </p>
 
 
-## 🌐 Developer Forums/Socials:
+## 🌐 Socials:
 
 <p align="center">
   <a href="https://github.com/Sam-Tech-2543">
