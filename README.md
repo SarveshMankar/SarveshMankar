@@ -11,10 +11,16 @@
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="https://github.com/Sam-Tech-2543" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/mankarsarvesh251" target="_blank">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://github.com/Sam-Tech-2543">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.hackerrank.com/mankarsarvesh251/">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://www.codewars.com/users/SarveshMankar/">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"></a>
+  <a href="https://www.codechef.com/users/mankarsarvesh/">
+  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
+  <a href="https://leetcode.com/mankarsarvesh2543/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
 </p>
   
   
