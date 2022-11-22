@@ -64,4 +64,4 @@
 </p>
 
 <a href="https://github.com/Sam-Tech-2543"><img alt="Sarvesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sam-Tech-2543&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<a href="https://github.com/Sam-Tech-2543"><img alt="Sarvesh's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Sam-Tech-2543&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
