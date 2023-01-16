@@ -50,7 +50,7 @@
 ## 🔥 GitHub stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Sam-Tech-2543"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Tech-2543&layout=compact" height="192px"/></a>
+<p><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Tech-2543&layout=compact" height="192px"/></p>
 <!-- GitHub Readme Streak Stats -->
 <p align="center">
   <a href="https://github.com/Sam-Tech-2543">
