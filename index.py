@@ -4,7 +4,7 @@ import markdown
 from bs4 import BeautifulSoup
 import requests
 
-category = 'happiness'
+category = 'inspirational'
 api_url = 'https://api.api-ninjas.com/v1/quotes?category={}'.format(category)
 response = requests.get(api_url, headers={'X-Api-Key': 'AJS1FBub++2RH370GuqBmg==s2AgRz6ufja8i9xl'})
 
@@ -25,7 +25,7 @@ closing_tag = "</h2 quote"
 start_index = readme_text.index(opening_tag)
 end_index = readme_text.index(closing_tag)
 
-quotemarkdown = "<h2 quote align='center'>"+quote+"</h2 quote>"
+quotemarkdown = "<h2 quote align='center'>"+quote['quote']+"</h2 quote>"
 
 content = readme_text[start_index+len(opening_tag):end_index]
 new_content = readme_text[:start_index]+quotemarkdown+readme_text[end_index+len(closing_tag)+1:]
