@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+    schedules:
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -20,7 +22,7 @@ jobs:
       - name : Running script file
         run: python index.py
         
-      - name: Commit report
+      - name: Update the Quote
         run: |
           git config --global user.name 'Sam-Tech-2543'
           git config --global user.email 'mankarsarvesh2543@gmail.com'
