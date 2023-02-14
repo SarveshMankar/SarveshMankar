@@ -4,7 +4,7 @@ on:
     branches:
       - main
     schedules:
-    - cron: '0 0-18/1 * * *'
+    - cron: '00 * * * *'
       displayName: Update
       branches:
         include:
