@@ -4,7 +4,11 @@ on:
     branches:
       - main
     schedules:
-    - cron: "0 0 * * *"
+    - cron: '0 0-18/1 * * *'
+      displayName: Update
+      branches:
+        include:
+        - master
 
 jobs:
   build:
