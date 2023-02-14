@@ -67,4 +67,4 @@
 
 [![Sarvesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sam-Tech-2543&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Sam-Tech-2543/github-readme-activity-graph)
 
-<h2 quote align="center">quote</h2 quote>
+<h2 quote align='center'>[{"quote": "Since, therefore, no man is born without faults, and he is esteemed the best whose errors are the least, let the wise man consider everything human as connected with himself for in worldly affairs there is no perfect happiness under heaven.", "author": "Giraldus Cambrensis", "category": "happiness"}]</h2 quote>
