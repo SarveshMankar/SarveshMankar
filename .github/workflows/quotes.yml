@@ -8,7 +8,7 @@ on:
       displayName: Update
       branches:
         include:
-        - master
+        - main
 
 jobs:
   build:
