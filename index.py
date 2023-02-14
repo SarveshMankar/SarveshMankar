@@ -25,7 +25,7 @@ closing_tag = "</h2 quote"
 start_index = readme_text.index(opening_tag)
 end_index = readme_text.index(closing_tag)
 
-quotemarkdown = "<h2 quote align='center'>"+quote["text"]+"</h2 quote>"
+quotemarkdown = "<h2 quote align='center'>"+quote+"</h2 quote>"
 
 content = readme_text[start_index+len(opening_tag):end_index]
 new_content = readme_text[:start_index]+quotemarkdown+readme_text[end_index+len(closing_tag)+1:]
