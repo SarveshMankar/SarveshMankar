@@ -67,4 +67,4 @@
 
 [![Sarvesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sam-Tech-2543&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Sam-Tech-2543/github-readme-activity-graph)
 
-<h3 quote align='center'>It is only in sorrow bad weather masters us in joy we face the storm and defy it.</h3 quote>
+<h3 quote align='center'>It is in your moments of decision that your destiny is shaped.</h3 quote>
