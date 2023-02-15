@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The best way out is always through.</h3 quote>
+<h3 quote align='center'>Thinking: the talking of the soul with itself.</h3 quote>
 
 ---
 
