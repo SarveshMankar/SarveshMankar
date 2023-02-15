@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The speed of the leader is the speed of the gang.</h3 quote>
+<h3 quote align='center'>The trouble with learning from experience is that you never graduate.</h3 quote>
 
 ---
 
