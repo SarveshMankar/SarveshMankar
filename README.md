@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>No man's brain is so dull, and no man's eye so blind, that they cannot catch food for dreams.</h3 quote>
+<h3 quote align='center'>Hamas, also elected to governmental leadership in Palestine, includes the jihadists, people who have declared war on the United States of America and its ally, Israel.</h3 quote>
 
 ---
 
