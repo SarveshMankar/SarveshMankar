@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I had some experience in dealing with people who have mental illness and depression, but I didn't see the signs in myself.</h3 quote>
+<h3 quote align='center'>If you have a positive attitude and constantly strive to give your best effort, eventually you will overcome your immediate problems and find you are ready for greater challenges.</h3 quote>
 
 ---
 
