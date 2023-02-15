@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Hamas, also elected to governmental leadership in Palestine, includes the jihadists, people who have declared war on the United States of America and its ally, Israel.</h3 quote>
+<h3 quote align='center'>I had some experience in dealing with people who have mental illness and depression, but I didn't see the signs in myself.</h3 quote>
 
 ---
 
