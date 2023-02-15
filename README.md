@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The fact that I am a writer comes from the experience of being cut away from my roots and living in Venezuela, where I couldn't find a place for myself, for years and years.</h3 quote>
+<h3 quote align='center'>I prefer to be a dreamer among the humblest, with visions to be realized, than lord among those without dreams and desires.</h3 quote>
 
 ---
 
