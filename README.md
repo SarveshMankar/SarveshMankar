@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The trouble with learning from experience is that you never graduate.</h3 quote>
+<h3 quote align='center'>The trouble with people like Tony Blair is they get confused, they think intelligence is education when they're two different things.</h3 quote>
 
 ---
 
