@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>With self-discipline most anything is possible.</h3 quote>
+<h3 quote align='center'>Change your thoughts and you change your world.</h3 quote>
 
 ---
 
