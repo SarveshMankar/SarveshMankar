@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>What happened with Hurricane Katrina was the American electorate was forced to look at what lay behind the veneer of chest-beating.</h3 quote>
+<h3 quote align='center'>Whatever education I got was from experience and reading.</h3 quote>
 
 ---
 
