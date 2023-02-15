@@ -3,10 +3,11 @@ import json
 import markdown
 from bs4 import BeautifulSoup
 import requests
+from config import API_KEY
 
 category = 'inspirational'
 api_url = 'https://api.api-ninjas.com/v1/quotes?category={}'.format(category)
-response = requests.get(api_url, headers={'X-Api-Key': 'AJS1FBub++2RH370GuqBmg==s2AgRz6ufja8i9xl'})
+response = requests.get(api_url, headers={'X-Api-Key': API_KEY})
 
 if response.status_code == requests.codes.ok:
     quote=response.text
