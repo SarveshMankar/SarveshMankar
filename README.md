@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>You know, as director of the CIA, I got an awful lot of intelligence about all the horrible things that could go on across the world.</h3 quote>
+<h3 quote align='center'>That attitude toward women as objects may have worked for the late Sixties, but it doesn't do so now.</h3 quote>
 
 ---
 
