@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I prefer to be a dreamer among the humblest, with visions to be realized, than lord among those without dreams and desires.</h3 quote>
+<h3 quote align='center'>Success to me is having ten honeydew melons and only eating the top half of each one.</h3 quote>
 
 ---
 
