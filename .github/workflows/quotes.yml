@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
+env:
+  api_key: ${{ secrets.API_KEY }}
+
 jobs:
   build:
     runs-on: windows-latest

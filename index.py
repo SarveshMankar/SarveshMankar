@@ -5,14 +5,11 @@ from bs4 import BeautifulSoup
 import requests
 import os
 
-from dotenv import load_dotenv
-load_dotenv()
-
-
+API_KEY = os.environ.get('api_key')
 
 category = 'inspirational'
 api_url = 'https://api.api-ninjas.com/v1/quotes?category={}'.format(category)
-response = requests.get(api_url, headers={'X-Api-Key': os.getenv('API_KEY')})
+response = requests.get(api_url, headers={'X-Api-Key': API_KEY})
 
 if response.status_code == requests.codes.ok:
     quote=response.text
