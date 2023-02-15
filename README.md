@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The trouble with people like Tony Blair is they get confused, they think intelligence is education when they're two different things.</h3 quote>
+<h3 quote align='center'>All you need in this life is ignorance and confidence, and then Success is sure.</h3 quote>
 
 ---
 
