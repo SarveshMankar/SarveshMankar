@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>A place for everything, everything in its place.</h3 quote>
+<h3 quote align='center'>Noble deeds that are concealed are most esteemed.</h3 quote>
 
 ---
 
