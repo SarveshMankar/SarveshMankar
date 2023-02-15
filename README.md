@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It is always the simple that produces the marvelous.</h3 quote>
+<h3 quote align='center'>If you wish to know the mind of a man, listen to his words.</h3 quote>
 
 ---
 
