@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success to me is having ten honeydew melons and only eating the top half of each one.</h3 quote>
+<h3 quote align='center'>Newt Gingrich has a restless and outsized intelligence that is tragically unleavened by any kind of critical sensibility.</h3 quote>
 
 ---
 
