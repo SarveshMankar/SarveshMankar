@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Love and desire are the spirit's wings to great deeds.</h3 quote>
+<h3 quote align='center'>You change your life by changing your heart.</h3 quote>
 
 ---
 
