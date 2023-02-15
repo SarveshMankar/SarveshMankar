@@ -11,6 +11,8 @@ response = requests.get(api_url, headers={'X-Api-Key': 'AJS1FBub++2RH370GuqBmg==
 if response.status_code == requests.codes.ok:
     quote=response.text
     quotes = json.loads(quote)
+    q=quotes[0]['quote']
+    mq=q.split('.')[0]
     #print(quotes[0]['quote'])
 else:
     print("Error:", response.status_code, response.text)
@@ -26,7 +28,7 @@ closing_tag = "</h3 quote"
 start_index = readme_text.index(opening_tag)
 end_index = readme_text.index(closing_tag)
 
-quotemarkdown = "<h3 quote align='center'>"+quotes[0]['quote']+"</h3 quote>"
+quotemarkdown = "<h3 quote align='center'>"+mq+"."+"</h3 quote>"
 
 content = readme_text[start_index+len(opening_tag):end_index]
 new_content = readme_text[:start_index]+quotemarkdown+readme_text[end_index+len(closing_tag)+1:]

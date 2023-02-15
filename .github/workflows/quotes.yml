@@ -1,6 +1,6 @@
 name: Update Quotes
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "*/20 * * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
