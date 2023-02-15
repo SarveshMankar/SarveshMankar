@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If you have a positive attitude and constantly strive to give your best effort, eventually you will overcome your immediate problems and find you are ready for greater challenges.</h3 quote>
+<h3 quote align='center'>This administration and the leadership in Congress appear to be intent on valuing wealth over work, thereby placing working families at a distinct disadvantage.</h3 quote>
 
 ---
 
