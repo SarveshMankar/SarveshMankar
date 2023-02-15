@@ -67,4 +67,4 @@
 
 [![Sarvesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sam-Tech-2543&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Sam-Tech-2543/github-readme-activity-graph)
 
-<h3 quote align='center'>Our ideals are our better selves.</h3 quote>
+<h3 quote align='center'>Every moment and every event of every man's life on earth plants something in his soul.</h3 quote>
