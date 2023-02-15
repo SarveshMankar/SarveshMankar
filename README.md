@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>In some countries we have had the right to vote for less than 100 years, so the entry of women into political leadership has caused a tsunami.</h3 quote>
+<h3 quote align='center'>The speed of the leader is the speed of the gang.</h3 quote>
 
 ---
 
