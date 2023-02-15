@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It was my father who instilled the 'never say no' attitude I carry around with me today, and who instilled in me a sense of wonder, always taking us on adventures in the car, never telling us the destination.</h3 quote>
+<h3 quote align='center'>The fact that I am a writer comes from the experience of being cut away from my roots and living in Venezuela, where I couldn't find a place for myself, for years and years.</h3 quote>
 
 ---
 
