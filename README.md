@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Newt Gingrich has a restless and outsized intelligence that is tragically unleavened by any kind of critical sensibility.</h3 quote>
+<h3 quote align='center'>No man's brain is so dull, and no man's eye so blind, that they cannot catch food for dreams.</h3 quote>
 
 ---
 
