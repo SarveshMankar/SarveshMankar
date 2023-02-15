@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>As a medical doctor, it is my duty to evaluate the situation with as much data as I can gather and as much expertise as I have and as much experience as I have to determine whether or not the wish of the patient is medically justified.</h3 quote>
+<h3 quote align='center'>I was not born in a home where there were stereotypes.</h3 quote>
 
 ---
 
