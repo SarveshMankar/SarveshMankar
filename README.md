@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>We need to be aware of what we are capable of first and realize that if you place your dreams really really high, you do have the potential to get to that level.</h3 quote>
+<h3 quote align='center'>We can change our lives.</h3 quote>
 
 ---
 
