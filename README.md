@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.</h3 quote>
+<h3 quote align='center'>Look within.</h3 quote>
 
 ---
 
