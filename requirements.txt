@@ -1,3 +1,4 @@
 beautifulsoup4
 Markdown
 requests
+python-dotenv==0.10.1
