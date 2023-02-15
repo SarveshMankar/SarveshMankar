@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Dreams have as much influence as actions.</h3 quote>
+<h3 quote align='center'>The essential elements of giving are power and love - activity and affection - and the consciousness of the race testifies that in the high and appropriate exercise of these is a blessedness greater than any other.</h3 quote>
 
 ---
 
