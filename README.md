@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I am deliberate and afraid of nothing.</h3 quote>
+<h3 quote align='center'>Plant thy foot firmly in the prints which His foot has made before thee.</h3 quote>
 
 ---
 
