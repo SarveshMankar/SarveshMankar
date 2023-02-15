@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Happiness resides not in possessions, and not in gold, happiness dwells in the soul.</h3 quote>
+<h3 quote align='center'>Don't limit yourself.</h3 quote>
 
 ---
 
