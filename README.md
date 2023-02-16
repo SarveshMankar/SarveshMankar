@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The danger of having the military take over intelligence is that the military has a very different perspective on the world.</h3 quote>
+<h3 quote align='center'>All of the legal defense funds out there, they're looking for people out there with court of appeals experience, because court of appeals is where policy is made.</h3 quote>
 
 ---
 
