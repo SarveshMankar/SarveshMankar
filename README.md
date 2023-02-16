@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Attitude is a little thing that makes a big difference.</h3 quote>
+<h3 quote align='center'>One of the things that I did before I ran for president is I was a professional speaker.</h3 quote>
 
 ---
 
