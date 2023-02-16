@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There's a positive side to film and television, the sense of feeding into the theater.</h3 quote>
+<h3 quote align='center'>At an unprecedented time with the worst attack ever on our soil, our President displayed extraordinary determination, leadership and resolve when history was thrust upon him and the United States.</h3 quote>
 
 ---
 
