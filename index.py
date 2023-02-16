@@ -15,7 +15,7 @@ if response.status_code == requests.codes.ok:
     quote=response.text
     quotes = json.loads(quote)
     q=quotes[0]['quote']
-    mq=q.split('.')[0]
+    mainQuote=q.split('.')[0]
 else:
     print("Error:", response.status_code, response.text)
 
