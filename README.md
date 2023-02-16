@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Pubs make you as drunk as they can as soon as they can, and turn nasty when they succeed.</h3 quote>
+<h3 quote align='center'>On the recollection of so many and great favours and blessings, I now, with a high sense of gratitude, presume to offer up my sincere thanks to the Almighty, the Creator and Preserver.</h3 quote>
 
 ---
 
