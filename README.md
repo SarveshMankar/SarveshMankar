@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Well, first of all, we did lots of studies where we show practical intelligence doesn't correlate with G.</h3 quote>
+<h3 quote align='center'>Am I athletic? In my dreams.</h3 quote>
 
 ---
 
