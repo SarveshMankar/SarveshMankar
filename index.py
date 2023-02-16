@@ -19,23 +19,29 @@ if response.status_code == requests.codes.ok:
 else:
     print("Error:", response.status_code, response.text)
 
+
+# Reading the readme file
 with open("README.md", mode="r", encoding="utf8") as f:
-    readme_text = f.read()
+    readmeText = f.read()
 
-# finding tag
-readme_text
-opening_tag = "<h3 quote"
-closing_tag = "</h3 quote"
+# Finding the tag where the quote is to be replaced
+openingTag = "<h3 quote"
+closingTag = "</h3 quote"
 
-start_index = readme_text.index(opening_tag)
-end_index = readme_text.index(closing_tag)
+startIndex = readmeText.index(openingTag)
+endIndex = readmeText.index(closingTag)
 
-quotemarkdown = "<h3 quote align='center'>"+mq+"."+"</h3 quote>"
+quoteMarkdown = "<h3 quote align='center'>" + mainQuote + "." + "</h3 quote>"
 
-content = readme_text[start_index+len(opening_tag):end_index]
-new_content = readme_text[:start_index]+quotemarkdown+readme_text[end_index+len(closing_tag)+1:]
+content = readmeText[startIndex + len(openingTag) : endIndex]
+newContent = (
+    readmeText[:startIndex]
+    + quoteMarkdown
+    + readmeText[endIndex + len(closingTag) + 1 :]
+)
 
-# writing into readme file
-readme_file = open("README.md", mode="w", encoding="utf8",)
-readme_file.write(new_content)
+# Writing new Quote into readme file
+readme_file = open("README.md", mode="w", encoding="utf8")
+readme_file.write(newContent)
+
 
