@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>In my childhood, America was like a religion.</h3 quote>
+<h3 quote align='center'>The danger of having the military take over intelligence is that the military has a very different perspective on the world.</h3 quote>
 
 ---
 
