@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I believe that in Europe, we have a collective leadership.</h3 quote>
+<h3 quote align='center'>Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch.</h3 quote>
 
 ---
 
