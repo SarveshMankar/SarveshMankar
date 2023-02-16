@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It's really fun at night, because I can see the baby kicking.</h3 quote>
+<h3 quote align='center'>Women have talent and intelligence but, due to social constraints and prejudices, it is still a long distance away from the goal of gender equality.</h3 quote>
 
 ---
 
