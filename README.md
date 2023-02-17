@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 align='center'>My dad is still Christian Scientist.</h3>
+<h3 quote align='center'>My dad is still Christian Scientist.</h3 quote>
 
 ---
 
