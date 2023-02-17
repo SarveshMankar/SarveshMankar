@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Attitude determines the altitude of life.</h3 quote>
+<h3 quote align='center'>My dad is still Christian Scientist.</h3 quote>
 
 ---
 
