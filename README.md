@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>All of the legal defense funds out there, they're looking for people out there with court of appeals experience, because court of appeals is where policy is made.</h3 quote>
+<h3 quote align='center'>There ambition can cover its enterprises, even to the person himself, under the appearance of principle, it is the most incurable and inflexibl eof passions.</h3 quote>
 
 ---
 
