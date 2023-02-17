@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>My dad is still Christian Scientist.</h3 quote>
+<h3 quote align='center'>I think generally I'm kind of interested in subjective experience, what goes on inside someone's head, that being all they really know of the world.</h3 quote>
 
 ---
 
