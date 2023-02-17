@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There ambition can cover its enterprises, even to the person himself, under the appearance of principle, it is the most incurable and inflexibl eof passions.</h3 quote>
+<h3 quote align='center'>No student of Chinese history can say that the Chinese are incapable of religious experience, even when judged by the standards of medieval Europe or pious India.</h3 quote>
 
 ---
 
