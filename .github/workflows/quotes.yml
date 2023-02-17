@@ -25,7 +25,7 @@ jobs:
         
       - name: Update the Quote
         run: |
-          git config --global user.name 'Sam-Tech-2543'
+          git config --global user.name 'SarveshMankar'
           git config --global user.email 'mankarsarvesh2543@gmail.com'
           git add .
           git commit -am "Daily quotes"
