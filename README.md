@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>A great deal has been written in recent years about the purported lack of motivation in the children of the Negro ghettos.</h3 quote>
+<h3 quote align='center'>Reality is wrong.</h3 quote>
 
 ---
 
