@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>We have treated our most serious adversaries, such as Iran and North Korea, in the most juvenile manner - by giving them the silent treatment.</h3 quote>
+<h3 quote align='center'>A great deal has been written in recent years about the purported lack of motivation in the children of the Negro ghettos.</h3 quote>
 
 ---
 
