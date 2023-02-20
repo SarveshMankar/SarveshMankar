@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Because of the president's leadership, every American will have access to affordable, quality health care.</h3 quote>
+<h3 quote align='center'>The attitude that nature is chaotic and that the artist puts order into it is a very absurd point of view, I think.</h3 quote>
 
 ---
 
