@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Reality is wrong.</h3 quote>
+<h3 quote align='center'>Because of the president's leadership, every American will have access to affordable, quality health care.</h3 quote>
 
 ---
 
