@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Prediction is not just one of the things your brain does.</h3 quote>
+<h3 quote align='center'>If you accept the expectations of others, especially negative ones, then you never will change the outcome.</h3 quote>
 
 ---
 
