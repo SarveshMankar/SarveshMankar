@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I think it's my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may.</h3 quote>
+<h3 quote align='center'>Success has always been a great liar.</h3 quote>
 
 ---
 
