@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success has always been a great liar.</h3 quote>
+<h3 quote align='center'>When deeds speak, words are nothing.</h3 quote>
 
 ---
 
