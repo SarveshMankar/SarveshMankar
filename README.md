@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The great function of poetry is to give back to us the situations of our dreams.</h3 quote>
+<h3 quote align='center'>My hope was that organizations would start including this range of skills in their training programs - in other words, offer an adult education in social and emotional intelligence.</h3 quote>
 
 ---
 
