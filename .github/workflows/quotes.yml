@@ -29,4 +29,4 @@ jobs:
           git config --global user.email 'mankarsarvesh2543@gmail.com'
           git add .
           git commit -am "Daily quotes"
-          git push origin main
+          git push origin main --force
