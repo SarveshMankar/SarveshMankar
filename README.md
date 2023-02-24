@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>My hope was that organizations would start including this range of skills in their training programs - in other words, offer an adult education in social and emotional intelligence.</h3 quote>
+<h3 quote align='center'>Everyone here has the sense that right now is one of those moments when we are influencing the future.</h3 quote>
 
 ---
 
