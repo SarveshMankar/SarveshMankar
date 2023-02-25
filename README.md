@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Dream small dreams.</h3 quote>
+<h3 quote align='center'>Tears are often the telescope by which men see far into heaven.</h3 quote>
 
 ---
 
