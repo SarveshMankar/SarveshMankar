@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>You change your life by changing your heart.</h3 quote>
+<h3 quote align='center'>If I could have been a marine biologist I would have, but I didn't have that kind of intelligence.</h3 quote>
 
 ---
 
