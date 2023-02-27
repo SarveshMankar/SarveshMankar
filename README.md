@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Leadership is hard to define and good leadership even harder.</h3 quote>
+<h3 quote align='center'>Vocational education programs have made a real difference in the lives of countless young people nationwide they build self-confidence and leadership skills by allowing students to utilize their unique gifts and talents.</h3 quote>
 
 ---
 
