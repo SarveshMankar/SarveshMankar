@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If you look back today over the last 25 years, it is a fact that we have had a progressive degeneration of our intelligence community in general in particular in the field of human intelligence.</h3 quote>
+<h3 quote align='center'>America won the Cold War by protecting our strategic resources from the threat of foreign control.</h3 quote>
 
 ---
 
