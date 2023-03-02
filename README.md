@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The wonderful thing about acting is you move along with your decade.</h3 quote>
+<h3 quote align='center'>I'm not a natural leader.</h3 quote>
 
 ---
 
