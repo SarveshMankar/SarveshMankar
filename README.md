@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I'm not a natural leader.</h3 quote>
+<h3 quote align='center'>I cannot give you the formula for success, but I can give you the formula for failure which is: Try to please everybody.</h3 quote>
 
 ---
 
