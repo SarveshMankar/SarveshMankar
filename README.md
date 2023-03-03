@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I cannot give you the formula for success, but I can give you the formula for failure which is: Try to please everybody.</h3 quote>
+<h3 quote align='center'>It is not ignorance but knowledge which is the mother of wonder.</h3 quote>
 
 ---
 
