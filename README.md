@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>No, I never had any dreams.</h3 quote>
+<h3 quote align='center'>I have learned this at least by my experiment: that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.</h3 quote>
 
 ---
 
