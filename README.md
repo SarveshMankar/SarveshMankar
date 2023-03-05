@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I think I usually have quite ordinary dreams.</h3 quote>
+<h3 quote align='center'>The great corporations of this country were not founded by ordinary people.</h3 quote>
 
 ---
 
