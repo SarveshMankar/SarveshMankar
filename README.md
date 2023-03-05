@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There can be no two opinions as to what a highbrow is.</h3 quote>
+<h3 quote align='center'>I think I usually have quite ordinary dreams.</h3 quote>
 
 ---
 
