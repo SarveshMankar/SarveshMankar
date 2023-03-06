@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Give me a firm place to stand, and I will move the earth.</h3 quote>
+<h3 quote align='center'>My dreams and aspirations when I was a child for as long as I can remember was to be an entertainer.</h3 quote>
 
 ---
 
