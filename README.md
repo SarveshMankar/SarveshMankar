@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>My dreams and aspirations when I was a child for as long as I can remember was to be an entertainer.</h3 quote>
+<h3 quote align='center'>Each person has the right to take part in the management of public affairs in his country, provided he has prior experience, a will to succeed, a college degree, influential parents, good looks, a resume, two 3X4 snapshots, and a good tax record.</h3 quote>
 
 ---
 
