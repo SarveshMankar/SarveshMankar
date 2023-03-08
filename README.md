@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I have amazing friends who have led inspirational lives.</h3 quote>
+<h3 quote align='center'>In oneself lies the whole world and if you know how to look and learn, the door is there and the key is in your hand.</h3 quote>
 
 ---
 
