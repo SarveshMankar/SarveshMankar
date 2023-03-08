@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>In oneself lies the whole world and if you know how to look and learn, the door is there and the key is in your hand.</h3 quote>
+<h3 quote align='center'>To the degree we're not living our dreams, our comfort zone has more control of us than we have over ourselves.</h3 quote>
 
 ---
 
