@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>A great attitude does much more than turn on the lights in our worlds it seems to magically connect us to all sorts of serendipitous opportunities that were somehow absent before the change.</h3 quote>
+<h3 quote align='center'>The fact that I am a writer comes from the experience of being cut away from my roots and living in Venezuela, where I couldn't find a place for myself, for years and years.</h3 quote>
 
 ---
 
