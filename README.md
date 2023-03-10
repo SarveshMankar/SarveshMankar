@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The fact that I am a writer comes from the experience of being cut away from my roots and living in Venezuela, where I couldn't find a place for myself, for years and years.</h3 quote>
+<h3 quote align='center'>I know from my own experience and from other people in the business that when you come from a place where nobody knew who you were and then there is this sudden shift to where everybody now knows who you are, there's an adjustment that you have to make.</h3 quote>
 
 ---
 
