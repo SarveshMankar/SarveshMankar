@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I know from my own experience and from other people in the business that when you come from a place where nobody knew who you were and then there is this sudden shift to where everybody now knows who you are, there's an adjustment that you have to make.</h3 quote>
+<h3 quote align='center'>The historical experience of socialist countries has sadly demonstrated that collectivism does not do away with alienation but rather increases it, adding to it a lack of basic necessities and economic inefficiency.</h3 quote>
 
 ---
 
