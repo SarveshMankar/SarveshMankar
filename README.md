@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The historical experience of socialist countries has sadly demonstrated that collectivism does not do away with alienation but rather increases it, adding to it a lack of basic necessities and economic inefficiency.</h3 quote>
+<h3 quote align='center'>Prince Charles is an absolute Mountbatten.</h3 quote>
 
 ---
 
