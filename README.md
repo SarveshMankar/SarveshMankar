@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>A human being has so many skins inside, covering the depths of the heart.</h3 quote>
+<h3 quote align='center'>Intelligence must follow faith, never precede it, and never destroy it.</h3 quote>
 
 ---
 
