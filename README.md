@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>One of the things about leadership is that you've got to show up.</h3 quote>
+<h3 quote align='center'>A human being has so many skins inside, covering the depths of the heart.</h3 quote>
 
 ---
 
