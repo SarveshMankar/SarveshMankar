@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>To accomplish great things, we must not only act, but also dream not only plan, but also believe.</h3 quote>
+<h3 quote align='center'>As a vibrant force in civil society, women continue to press for their rights, equal participation in decision-making, and the upholding of the principles of the revolution by the highest levels of leadership in Egypt.</h3 quote>
 
 ---
 
