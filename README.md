@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Intelligence must follow faith, never precede it, and never destroy it.</h3 quote>
+<h3 quote align='center'>To accomplish great things, we must not only act, but also dream not only plan, but also believe.</h3 quote>
 
 ---
 
