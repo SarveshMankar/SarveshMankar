@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>As a vibrant force in civil society, women continue to press for their rights, equal participation in decision-making, and the upholding of the principles of the revolution by the highest levels of leadership in Egypt.</h3 quote>
+<h3 quote align='center'>Every moment and every event of every man's life on earth plants something in his soul.</h3 quote>
 
 ---
 
