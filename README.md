@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I also know that there have been many times in our history when the proximity of an election has induced exactly the kind of leadership and consensus-building that produce progress in our democracy.</h3 quote>
+<h3 quote align='center'>Yes, America must do the right thing, but to provide moral leadership, America must do it in the right way, too.</h3 quote>
 
 ---
 
