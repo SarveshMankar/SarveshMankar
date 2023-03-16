@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Codewars-CC0000?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars"></a>
   <a href="https://www.codechef.com/users/mankarsarvesh/">
   <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
-  <a href="https://leetcode.com/mankarsarvesh2543/">
+  <a href="https://leetcode.com/sarvesh_mankar/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
 </p>
   
