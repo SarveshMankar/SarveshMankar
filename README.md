@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Yes, America must do the right thing, but to provide moral leadership, America must do it in the right way, too.</h3 quote>
+<h3 quote align='center'>Everyone here has the sense that right now is one of those moments when we are influencing the future.</h3 quote>
 
 ---
 
