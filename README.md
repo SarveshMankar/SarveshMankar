@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There are some hurts that we experience that can be forgiven but we won't forget them.</h3 quote>
+<h3 quote align='center'>The attitude and capacity of the factory, the old metal table and the new ideas of the wooden furniture quickly and naturally suggested the possibility of metal furniture.</h3 quote>
 
 ---
 
