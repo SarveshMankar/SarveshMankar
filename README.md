@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It is brilliant going to the theatre and being forced to sit and listen and think about life.</h3 quote>
+<h3 quote align='center'>Noble deeds that are concealed are most esteemed.</h3 quote>
 
 ---
 
