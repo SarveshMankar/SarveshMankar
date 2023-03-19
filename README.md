@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The key to successful leadership today is influence, not authority.</h3 quote>
+<h3 quote align='center'>Nature gave man two ends one to sit on and one to think with.</h3 quote>
 
 ---
 
