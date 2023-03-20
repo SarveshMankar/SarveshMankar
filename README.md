@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Experience isn't interesting until it begins to repeat itself.</h3 quote>
+<h3 quote align='center'>Human intelligence may not be the best trick nature has to offer.</h3 quote>
 
 ---
 
