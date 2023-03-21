@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>So I've seen life as one long learning process.</h3 quote>
+<h3 quote align='center'>Solidarity is an attitude of resistance, I suppose, or it should be.</h3 quote>
 
 ---
 
