@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Leadership can not be measured in a poll or even in the result of an election.</h3 quote>
+<h3 quote align='center'>Civilization is a method of living, an attitude of equal respect for all men.</h3 quote>
 
 ---
 
