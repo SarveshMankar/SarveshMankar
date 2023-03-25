@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Civilization is a method of living, an attitude of equal respect for all men.</h3 quote>
+<h3 quote align='center'>Let us with caution indulge the supposition that morality can be maintained without religion.</h3 quote>
 
 ---
 
