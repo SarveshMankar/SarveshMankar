@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Let us with caution indulge the supposition that morality can be maintained without religion.</h3 quote>
+<h3 quote align='center'>Health is the greatest possession.</h3 quote>
 
 ---
 
