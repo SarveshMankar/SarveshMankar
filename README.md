@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Dissents are appeals to the brooding spirit of the law, to the intelligence of another day.</h3 quote>
+<h3 quote align='center'>The President's speech suggested to me that were we to follow his leadership, we will be in Iraq not for months, but for years.</h3 quote>
 
 ---
 
