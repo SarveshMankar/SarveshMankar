@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Ambition should be made of sterner stuff.</h3 quote>
+<h3 quote align='center'>Americans have always had an ambivalent attitude toward intelligence.</h3 quote>
 
 ---
 
