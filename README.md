@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I believe that in Europe, we have a collective leadership.</h3 quote>
+<h3 quote align='center'>Ambition should be made of sterner stuff.</h3 quote>
 
 ---
 
