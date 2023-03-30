@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success, as I see it, is a result, not a goal.</h3 quote>
+<h3 quote align='center'>When our governments want to sell us a course of action, they do it by making sure it's the only thing on the agenda, the only thing everyone's talking about.</h3 quote>
 
 ---
 
