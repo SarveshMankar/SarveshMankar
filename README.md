@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If money is your hope for independence you will never have it.</h3 quote>
+<h3 quote align='center'>Success, as I see it, is a result, not a goal.</h3 quote>
 
 ---
 
