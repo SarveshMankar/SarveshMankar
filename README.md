@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>When our governments want to sell us a course of action, they do it by making sure it's the only thing on the agenda, the only thing everyone's talking about.</h3 quote>
+<h3 quote align='center'>Yes, all my songs come from personal experience and relationships.</h3 quote>
 
 ---
 
