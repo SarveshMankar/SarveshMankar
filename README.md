@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I just want to be myself and go for my own dreams and goals.</h3 quote>
+<h3 quote align='center'>Keep all special thoughts and memories for lifetimes to come.</h3 quote>
 
 ---
 
