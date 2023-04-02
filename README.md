@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Keep all special thoughts and memories for lifetimes to come.</h3 quote>
+<h3 quote align='center'>Is there anyone so wise as to learn by the experience of others?.</h3 quote>
 
 ---
 
