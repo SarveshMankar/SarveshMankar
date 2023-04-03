@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Is there anyone so wise as to learn by the experience of others?.</h3 quote>
+<h3 quote align='center'>I have a political attitude, but I'm certainly not a politician.</h3 quote>
 
 ---
 
