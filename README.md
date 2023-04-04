@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>We choose our joys and sorrows long before we experience them.</h3 quote>
+<h3 quote align='center'>I prefer to think of the audience as a single living organism with which I am sharing a singular, never-to-be-repeated experience.</h3 quote>
 
 ---
 
