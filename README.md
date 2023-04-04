@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Some folks can look so busy doing nothin' that they seem indispensable.</h3 quote>
+<h3 quote align='center'>We choose our joys and sorrows long before we experience them.</h3 quote>
 
 ---
 
