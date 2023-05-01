@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I prefer to think of the audience as a single living organism with which I am sharing a singular, never-to-be-repeated experience.</h3 quote>
+<h3 quote align='center'>The idea of being able to serve as an example, based upon how to process, how to think, how to realize our own dreams, we can pass that down to our children.</h3 quote>
 
 ---
 
