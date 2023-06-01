@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The idea of being able to serve as an example, based upon how to process, how to think, how to realize our own dreams, we can pass that down to our children.</h3 quote>
+<h3 quote align='center'>It is not difficult for me to have this faith, for it is incontrovertible that where there is a plan there is intelligence - an orderly, unfolding universe testifies to the truth of the most majestic statement ever uttered - 'In the beginning, God.</h3 quote>
 
 ---
 
