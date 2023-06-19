@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It is not difficult for me to have this faith, for it is incontrovertible that where there is a plan there is intelligence - an orderly, unfolding universe testifies to the truth of the most majestic statement ever uttered - 'In the beginning, God.</h3 quote>
+<h3 quote align='center'>Success usually comes to those who are too busy to be looking for it.</h3 quote>
 
 ---
 
