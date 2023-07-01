@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success usually comes to those who are too busy to be looking for it.</h3 quote>
+<h3 quote align='center'>With my talent, I can make people laugh and give them another attitude about life.</h3 quote>
 
 ---
 
