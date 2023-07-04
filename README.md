@@ -22,13 +22,13 @@
   <a href="https://www.linkedin.com/in/sarvesh-mankar/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.hackerrank.com/mankarsarvesh251/">
+  <a href="https://leetcode.com/sarvesh_mankar/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
   <img src="https://img.shields.io/badge/-Hackerrank-00CC00?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
   <a href="https://www.codewars.com/users/SarveshMankar/">
   <img src="https://img.shields.io/badge/Codewars-CC0000?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars"></a>
   <a href="https://www.codechef.com/users/mankarsarvesh/">
   <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
-  <a href="https://leetcode.com/sarvesh_mankar/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
 </p>
   
   
