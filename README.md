@@ -10,7 +10,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If we didn't want to upset anyone, we would make films about sewing, but even that could be dangerous.</h3 quote>
+<h3 quote align='center'>I have absurdly vivid dreams.</h3 quote>
 
 ---
 
