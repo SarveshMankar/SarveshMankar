@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Codewars-CC0000?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars"></a>
   <a href="https://www.codechef.com/users/mankarsarvesh/">
   <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
+  <img href="https://auth.geeksforgeeks.org/user/sarveshmankar2543/" src="https://img.shields.io/badge/GeeksForGeeks-239120?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks"></a>
 </p>
   
   
