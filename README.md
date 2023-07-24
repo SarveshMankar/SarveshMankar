@@ -9,7 +9,7 @@
 
 ---
 
-<h3 quote align='center'>I have absurdly vivid dreams.</h3 quote>
+<h3 quote align='center'>All we need, really, is a change from a near frigid to a tropical attitude of mind.</h3 quote>
 
 ---
 
