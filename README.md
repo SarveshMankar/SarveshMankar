@@ -5,6 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/SarveshMankar/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer!;4%2B%20years%20of%20Coding%20Experience!%20;Experienced%20Web%20Developer!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 </p>
 
 ---
@@ -24,10 +26,6 @@
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
   <a href="https://www.hackerrank.com/mankarsarvesh251/">
   <img src="https://img.shields.io/badge/-Hackerrank-00CC00?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
-  <!-- <a href="https://www.codewars.com/users/SarveshMankar/">
-  <img src="https://img.shields.io/badge/Codewars-CC0000?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars"></a> -->
-  <!-- <a href="https://www.codechef.com/users/mankarsarvesh/">
-  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a> -->
   <a href="https://auth.geeksforgeeks.org/user/sarveshmankar2543/">
   <img src="https://img.shields.io/badge/GeeksForGeeks-239120?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks"></a>
 </p>
@@ -36,22 +34,29 @@
 ## 💻 Tech Stack:
 
 <p align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img src="https://img.shields.io/badge/Android-00e600?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-    <img src="https://img.shields.io/badge/Windows-33ccff?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/firebase-ffff00?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Pltoly">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="60"/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="60" width="60"/>
+    <i class="devicon-amazonwebservices-plain-wordmark colored" style="font-size: 60
+    "></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" width="60"/>
+    <i class="devicon-flask-original-wordmark" style="font-size: 60"></i>
+    <i class="devicon-markdown-original" style="font-size: 60
+    "></i>
+    <i class="devicon-bash-plain" style="font-size: 60
+    "></i>
+  
+          
+
 </p>
 
 ## 🔥 GitHub stats:
