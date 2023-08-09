@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>You know what's funny to me? Attitude.</h3 quote>
+<h3 quote align='center'>Find what's hot, find what's just opened and then look for the worst review of the week.</h3 quote>
 
 ---
 
