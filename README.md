@@ -49,13 +49,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" width="60"/>
     <i class="devicon-flask-original-wordmark" style="font-size: 60"></i>
-    <i class="devicon-markdown-original" style="font-size: 60
-    "></i>
-    <i class="devicon-bash-plain" style="font-size: 60
-    "></i>
-  
-          
-
+    <i class="devicon-markdown-original" style="font-size: 60"></i>
+    <i class="devicon-bash-plain" style="font-size: 60"></i>
 </p>
 
 ## 🔥 GitHub stats:
