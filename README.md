@@ -58,7 +58,7 @@
 <!-- GitHub Readme Streak Stats -->
 <p align="center">
   <a href="https://github.com/SarveshMankar">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarvesh's streak" src="https://streak-stats.demolab.com/?user=SarveshMankar&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+    <img title="GitHub Stats" alt="Sarvesh's streak" src="https://streak-stats.demolab.com/?user=SarveshMankar&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p>
 
