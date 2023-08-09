@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Find what's hot, find what's just opened and then look for the worst review of the week.</h3 quote>
+<h3 quote align='center'>Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.</h3 quote>
 
 ---
 
