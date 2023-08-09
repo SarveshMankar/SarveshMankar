@@ -45,12 +45,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="60" width="60"/>
-    <i class="devicon-amazonwebservices-plain-wordmark colored" style="font-size: 60"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" width="60"/>
-    <i class="devicon-flask-original-wordmark" style="font-size: 60"></i>
-    <i class="devicon-markdown-original" style="font-size: 60"></i>
-    <i class="devicon-bash-plain" style="font-size: 60"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="60" width="60"/>
 </p>
 
 ## 🔥 GitHub stats:
