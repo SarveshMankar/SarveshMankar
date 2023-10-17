@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>If you are going to achieve excellence in big things, you develop the habit in little matters.</h3 quote>
+<h3 quote align='center'>Dreams come true; without that possibility, nature would not incite us to have them.</h3 quote>
 
 ---
 
