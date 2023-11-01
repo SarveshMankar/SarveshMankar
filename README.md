@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Dreams come true; without that possibility, nature would not incite us to have them.</h3 quote>
+<h3 quote align='center'>Absolute identity with one's cause is the first and great condition of successful leadership.</h3 quote>
 
 ---
 
