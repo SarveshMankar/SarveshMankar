@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Absolute identity with one's cause is the first and great condition of successful leadership.</h3 quote>
+<h3 quote align='center'>It is the constant fault and inseparable evil quality of ambition, that it never looks behind it.</h3 quote>
 
 ---
 
