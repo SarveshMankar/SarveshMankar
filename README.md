@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>It is the constant fault and inseparable evil quality of ambition, that it never looks behind it.</h3 quote>
+<h3 quote align='center'>What has happened is that to some degree they have taken an attitude where they don't listen to demos of diverse subject matters.</h3 quote>
 
 ---
 
