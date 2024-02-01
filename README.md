@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>What has happened is that to some degree they have taken an attitude where they don't listen to demos of diverse subject matters.</h3 quote>
+<h3 quote align='center'>It takes intelligence to make real comedy, and it takes a reality base to create all that little stuff I like to do that makes you giggle inside.</h3 quote>
 
 ---
 
