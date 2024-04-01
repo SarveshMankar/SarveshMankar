@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Lying in bed would be an altogether perfect and supreme experience if only one had a colored pencil long enough to draw on the ceiling.</h3 quote>
+<h3 quote align='center'>To be here today is just beyond my wildest dreams.</h3 quote>
 
 ---
 
