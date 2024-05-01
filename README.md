@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>To be here today is just beyond my wildest dreams.</h3 quote>
+<h3 quote align='center'>A place for everything, everything in its place.</h3 quote>
 
 ---
 
