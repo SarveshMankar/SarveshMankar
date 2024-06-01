@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>A place for everything, everything in its place.</h3 quote>
+<h3 quote align='center'>That's what I love from metal, and that's what I love from hip-hop.</h3 quote>
 
 ---
 
