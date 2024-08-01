@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>The war and terrorism in the Middle East, the crisis of leadership in many of the oil-supply countries in the developing world, the crisis of global warming - all these are very clearly tied to energy.</h3 quote>
+<h3 quote align='center'>Believe you can and you're halfway there.</h3 quote>
 
 ---
 
