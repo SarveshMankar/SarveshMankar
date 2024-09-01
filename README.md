@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Believe you can and you're halfway there.</h3 quote>
+<h3 quote align='center'>The best way out is always through.</h3 quote>
 
 ---
 
