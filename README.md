@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Man never made any material as resilient as the human spirit.</h3 quote>
+<h3 quote align='center'>When you go to the movies with your whole family, it's a different experience.</h3 quote>
 
 ---
 
