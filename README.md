@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Man never made any material as resilient as the human spirit.</h3 quote>
+<h3 quote align='center'>Leadership is getting players to believe in you.</h3 quote>
 
 ---
 
