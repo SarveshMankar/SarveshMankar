@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Leadership is getting players to believe in you.</h3 quote>
+<h3 quote align='center'>If you build that foundation, both the moral and the ethical foundation, as well as the business foundation, and the experience foundation, then the building won't crumble.</h3 quote>
 
 ---
 
