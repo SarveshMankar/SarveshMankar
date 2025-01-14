@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Muslims have a very bad attitude to homosexuality, they're very intolerant.</h3 quote>
+<h3 quote align='center'>Believe in Yourself!</h3 quote>
 
 ---
 
