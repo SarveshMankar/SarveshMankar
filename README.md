@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Believe in yourself!.</h3 quote>
+<h3 quote align='center'>Wolfgang Tillman's stunning large-scale pictures, being shown for the first time, were so offhand I failed to see them as art.</h3 quote>
 
 ---
 
