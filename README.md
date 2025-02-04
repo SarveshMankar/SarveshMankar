@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Believe in Yourself!</h3 quote>
+<h3 quote align='center'>Believe in yourself!.</h3 quote>
 
 ---
 
