@@ -11,6 +11,8 @@ category = ['inspirational','attitude','dreams','experience','intelligence','lea
 api_url = 'https://api.api-ninjas.com/v1/quotes?category={}'.format(category[random.randint(0,6)])
 response = requests.get(api_url, headers={'X-Api-Key': API_KEY})
 
+mainQuote="Believe in yourself!"
+
 if response.status_code == requests.codes.ok:
     quote=response.text
     quotes = json.loads(quote)
