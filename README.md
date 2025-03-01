@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Wolfgang Tillman's stunning large-scale pictures, being shown for the first time, were so offhand I failed to see them as art.</h3 quote>
+<h3 quote align='center'>One of the great failings of our education system is that we tend to focus on those who are succeeding in exams, and there are plenty of them.</h3 quote>
 
 ---
 
