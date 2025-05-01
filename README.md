@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Happiness is having a scratch for every itch.</h3 quote>
+<h3 quote align='center'>I simply don't believe in failure.</h3 quote>
 
 ---
 
