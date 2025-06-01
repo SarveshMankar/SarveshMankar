@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>I simply don't believe in failure.</h3 quote>
+<h3 quote align='center'>There should be a sympathy with freedom, a desire to give it scope, founded not upon visionary ideas, but upon the long experience of many generations within the shores of this happy isle, that in freedom you lay the firmest foundations both of loyalty and order.</h3 quote>
 
 ---
 
