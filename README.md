@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Everywhere you hang your hat is home.</h3 quote>
+<h3 quote align='center'>You don't want flame to hit your food.</h3 quote>
 
 ---
 
