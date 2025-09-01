@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>You don't want flame to hit your food.</h3 quote>
+<h3 quote align='center'>Produce great men, the rest follows.</h3 quote>
 
 ---
 
