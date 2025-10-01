@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Produce great men, the rest follows.</h3 quote>
+<h3 quote align='center'>Pearl Harbor caused our Nation to wholeheartedly commit to winning World War II, changing the course of our Nation's history and the world's future.</h3 quote>
 
 ---
 
