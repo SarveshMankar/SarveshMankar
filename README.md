@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>If anybody wanted to photograph my life, they'd get bored in a day.</h3 quote>
+<h3 quote align='center'>The sacrifices made by veterans and their willingness to fight in defense of our nation merit our deep respect and praise - and to the best in benefits and medical care.</h3 quote>
 
 ---
 
