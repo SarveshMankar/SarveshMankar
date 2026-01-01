@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>There are a lot of obstacles in the way of our understanding animal intelligence - not the least being that we can't even agree whether nonhuman species are conscious.</h3 quote>
+<h3 quote align='center'>Happiness is like a cat, If you try to coax it or call it, it will avoid you it will never come.</h3 quote>
 
 ---
 
