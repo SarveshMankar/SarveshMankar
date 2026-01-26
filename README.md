@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SarveshMankar"><img alt="Sarvesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SarveshMankar&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/SarveshMankar"><img alt="Sarvesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SarveshMankar&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github" height="192px"/></a>
   <a href="https://github.com/SarveshMankar"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshmankar&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="192px"/></a>
 
   <br/>
@@ -72,6 +72,3 @@
 
 
 [![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SarveshMankar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/SarveshMankar/github-readme-activity-graph)
-
-<h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{SarveshMankar}/count.svg/" alt="Sarvesh Mankar Visitor's count" /></p>
