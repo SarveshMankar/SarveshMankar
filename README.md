@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>The sacrifices made by veterans and their willingness to fight in defense of our nation merit our deep respect and praise - and to the best in benefits and medical care.</h3 quote>
+<h3 quote align='center'>Happiness is like a cat, If you try to coax it or call it, it will avoid you it will never come.</h3 quote>
 
 ---
 
