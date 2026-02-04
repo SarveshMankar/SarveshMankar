@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Happiness is like a cat, If you try to coax it or call it, it will avoid you it will never come.</h3 quote>
+<h3 quote align='center'>There is certain relief in change, even though it be from bad to worse! As I have often found in traveling in a stagecoach, that it is often a comfort to shift one's position, and be bruised in a new place.</h3 quote>
 
 ---
 
