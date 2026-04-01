@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>What other people think about me is not my business.</h3 quote>
+<h3 quote align='center'>Education is a series of prejudices acquired by the age of eighteen.</h3 quote>
 
 ---
 
