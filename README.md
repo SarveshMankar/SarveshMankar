@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Education is a series of prejudices acquired by the age of eighteen.</h3 quote>
+<h3 quote align='center'>I always had an interest in fashion because my mom is a celebrity fashion stylist.</h3 quote>
 
 ---
 
