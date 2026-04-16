@@ -33,7 +33,7 @@
   
 ## 💻 Tech Stack:
 
-<p align="center">
+<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="60"/>
@@ -51,7 +51,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="60" width="60"/>
-</p>
+  </div>
 
 ## 🔥 GitHub stats:
 
