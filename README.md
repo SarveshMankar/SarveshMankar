@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Humor is the affectionate communication of insight.</h3 quote>
+<h3 quote align='center'>An education isn't how much you have committed to memory, or even how much you know.</h3 quote>
 
 ---
 
