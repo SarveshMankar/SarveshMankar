@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Something my mum taught me years and years and years ago, is life's just too short to carry around a great bucket-load of anger and resentment and bitterness and hatreds and all that sort of stuff.</h3 quote>
+<h3 quote align='center'>If we want to implement climate protection worldwide, countries like Germany, which are capable of developing new technologies, will have to hand over some of their knowledge.</h3 quote>
 
 ---
 
