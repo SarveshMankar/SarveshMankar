@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>If we want to implement climate protection worldwide, countries like Germany, which are capable of developing new technologies, will have to hand over some of their knowledge.</h3 quote>
+<h3 quote align='center'>The distinctions of fine art bore me to death.</h3 quote>
 
 ---
 
