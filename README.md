@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>The distinctions of fine art bore me to death.</h3 quote>
+<h3 quote align='center'>I never worry about being driven to drink I just worry about being driven home.</h3 quote>
 
 ---
 
