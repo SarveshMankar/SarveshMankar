@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>The distinctions of fine art bore me to death.</h3 quote>
+<h3 quote align='center'>You can only do your best.</h3 quote>
 
 ---
 
