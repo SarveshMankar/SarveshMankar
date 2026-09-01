@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>You can only do your best.</h3 quote>
+<h3 quote align='center'>Science is the highest personification of the nation because that nation will remain the first which carries the furthest the works of thought and intelligence.</h3 quote>
 
 ---
 
