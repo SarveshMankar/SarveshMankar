@@ -11,7 +11,7 @@
 
 ---
 
-<h3 quote align='center'>Mental attitude and concentration are the keys to pitching.</h3 quote>
+<h3 quote align='center'>Some of the things you read you get an immediate reaction to so I've stopped reading things now.</h3 quote>
 
 ---
 
